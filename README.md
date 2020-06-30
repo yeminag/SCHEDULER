@@ -1,2 +1,3 @@
 # SCHEDULER
-Proyecto
+
+Proyecto realizado en PHP y Laravel
