@@ -6,5 +6,4 @@ Servidor xampp
 
 MySQL
 
-Hola prueba3
-
+Visual Studio Code
